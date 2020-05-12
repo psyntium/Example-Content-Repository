@@ -1,0 +1,10 @@
+{
+  "title": "Edge CaaS Example catalog",
+  "owners": { "Your-App-Id": ["all"] },
+  "editors": {},
+  "viewers": {},
+  "previewers": { 
+    "contentstore": ["all"]
+  },
+  "catalogInfo": {}
+}

@@ -6,5 +6,8 @@
   "previewers": { 
     "contentstore": ["all"]
   },
+  "copyright": {
+    "license": "MIT"
+  },
   "catalogInfo": {}
 }

@@ -6,7 +6,7 @@
 
 #### 2. Update your LibraryID in owners field from catalog.json file
 
-Don't have an LibraryID? Register here: https://developer.ibm.com/edge/caas
+Don't have an library? Register here: https://developer.ibm.com/edge/caas
 
 #### 3. Connect EdgeCaaS to your repository
 

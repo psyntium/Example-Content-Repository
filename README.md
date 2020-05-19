@@ -4,9 +4,9 @@
 
 #### 1. Fork this repository to your account
 
-#### 2. Update your AppID in owners field from catalog.json file
+#### 2. Update your LibraryID in owners field from catalog.json file
 
-Don't have an AppID? Register here: https://developer.ibm.com/edge/caas
+Don't have an LibraryID? Register here: https://developer.ibm.com/edge/caas
 
 #### 3. Connect EdgeCaaS to your repository
 
@@ -15,7 +15,7 @@ https://developer.ibm.com/edge/caas/connect
 
 ## How to see the courses
 
-#### Create your learning library on MyLearning website
+#### You can see your library on MyLearning website
 
 https://developer.ibm.com/mylearning
 
@@ -23,6 +23,6 @@ https://developer.ibm.com/mylearning
 
 https://?
 
-#### Access the content from your website with Edge CaaS API
+#### Access the content with Edge CaaS API
 
 https://developer.ibm.com/edge/caas/connect

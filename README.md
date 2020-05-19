@@ -15,14 +15,14 @@ https://developer.ibm.com/edge/caas/connect
 
 ## How to see the courses
 
-#### You can see your library on MyLearning website
+#### You can see your library on MyLearning website:
 
 https://developer.ibm.com/mylearning
 
-#### Embed courses in a WordPress website with this plugin
+#### Embed courses in a WordPress website with this plugin:
 
 https://?
 
-#### Access the content with Edge CaaS API
+#### Access the content with Edge CaaS API:
 
 https://developer.ibm.com/edge/caas/connect

@@ -4,7 +4,7 @@
 
 #### 1. Fork this repository to your account
 
-#### 2. Update your LibraryID in owners field from catalog.json file
+#### 2. Update your library ID in owners field from catalog.json file
 
 Don't have an library? Register here: https://developer.ibm.com/edge/caas
 

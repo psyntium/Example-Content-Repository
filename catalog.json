@@ -1,6 +1,6 @@
 {
   "title": "Edge CaaS Example catalog",
-  "owners": { "Your-App-Id": ["all"] },
+  "owners": { "Your-Library-Id": ["all"] },
   "editors": {},
   "viewers": {},
   "previewers": { 

@@ -1,8 +1,10 @@
 {
   "title": "Edge CaaS Example catalog",
-  "owners": { "Your-Library-Id": ["all"] },
+  "owners": { "demo": ["all"] },
   "editors": {},
-  "viewers": {},
+  "viewers": {
+    "contentstore": ["all"]
+  },
   "previewers": { 
     "contentstore": ["all"]
   },

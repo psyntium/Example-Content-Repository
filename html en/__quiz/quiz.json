@@ -1,0 +1,190 @@
+{
+  "title": "HTML Quiz",
+  "body": "",
+  "questions": [
+    {
+      "id": "1",
+      "question": "What is the full form of HTML?",
+      "body": "",
+      "answers": [
+        {
+          "id": "1",
+          "answer": "High Text Markup Language",
+          "valid": false
+        },
+        {
+          "id": "2",
+          "answer": "Hyper Text Markup Language",
+          "valid": true
+        },
+        {
+          "id": "3",
+          "answer": "High Task Markup Language",
+          "valid": false
+        },
+        {
+          "id": "4",
+          "answer": "Hyper Textual Markup Language",
+          "valid": false
+        }
+      ],
+      "explanation": "",
+      "randomAnswers": false,
+      "numberOfAnswers": 4
+    },
+    {
+      "id": "2",
+      "question": "Which is the latest version of HTML?",
+      "body": "",
+      "answers": [
+        {
+          "id": "1",
+          "answer": "3",
+          "valid": false
+        },
+        {
+          "id": "2",
+          "answer": "4",
+          "valid": false
+        },
+        {
+          "id": "2",
+          "answer": "5",
+          "valid": true
+        },
+        {
+          "id": "2",
+          "answer": "6",
+          "valid": false
+        }
+      ],
+      "explanation": "",
+      "randomAnswers": false,
+      "numberOfAnswers": 4
+    },
+    {
+      "id": "3",
+      "question": "Which HTML tag is used to make text italic?",
+      "body": "",
+      "answers": [
+        {
+          "id": "1",
+          "answer": "it",
+          "valid": false
+        },
+        {
+          "id": "2",
+          "answer": "italic",
+          "valid": false
+        },
+        {
+          "id": "3",
+          "answer": "i",
+          "valid": true
+        },
+        {
+          "id": "4",
+          "answer": "il",
+          "valid": false
+        }
+      ],
+      "explanation": "",
+      "randomAnswers": false,
+      "numberOfAnswers": 4
+    },
+    {
+      "id": "4",
+      "question": "Which HTML tag is used to specify the most important heading?",
+      "body": "",
+      "answers": [
+        {
+          "id": "1",
+          "answer": "h1",
+          "valid": true
+        },
+        {
+          "id": "2",
+          "answer": "p",
+          "valid": false
+        },
+        {
+          "id": "3",
+          "answer": "h6",
+          "valid": false
+        },
+        {
+          "id": "4",
+          "answer": "b",
+          "valid": false
+        }
+      ],
+      "explanation": "",
+      "randomAnswers": false,
+      "numberOfAnswers": 4
+    },
+    {
+      "id": "5",
+      "question": "Which HTML tag is used to add images?",
+      "body": "",
+      "answers": [
+        {
+          "id": "1",
+          "answer": "image",
+          "valid": false
+        },
+        {
+          "id": "2",
+          "answer": "im",
+          "valid": false
+        },
+        {
+          "id": "3",
+          "answer": "i",
+          "valid": false
+        },
+        {
+          "id": "4",
+          "answer": "img",
+          "valid": true
+        }
+      ],
+      "explanation": "",
+      "randomAnswers": false,
+      "numberOfAnswers": 4
+    },
+    {
+      "id": "6",
+      "question": "Which of the following tags are used for tables?",
+      "body": "",
+      "answers": [
+        {
+          "id": "1",
+          "answer": "ta",
+          "valid": false
+        },
+        {
+          "id": "2",
+          "answer": "td",
+          "valid": true
+        },
+        {
+          "id": "3",
+          "answer": "tr",
+          "valid": true
+        },
+        {
+          "id": "4",
+          "answer": "th",
+          "valid": true
+        }
+      ],
+      "explanation": "",
+      "randomAnswers": false,
+      "numberOfAnswers": 4
+    }
+  ],
+  "randomQuestions": true,
+  "numberOfQuestions": 6,
+  "passingPercent": 80,
+  "checkAnswer": true
+}

@@ -1,0 +1,33 @@
+{
+    "title": "HTML",
+    "language": "en",
+    "status": "Approved",
+    "type": "Course",
+    "terminal": true,
+    "overview": false,
+    "timetype": "Self-paced",
+    "duration": "30-45",
+    "certificate": "",
+    "badgeid": "",
+    "description": "<h3>Learning objectives</h3><ul> <li>Objective 1</li> <li>Objective 2</li> <li>Objective 3</li> <li>Objective 4</li></ul><br/>",
+    "job_search_keyword": 
+    [
+        "HTML"
+    ],
+    "objective": 
+    [
+        "Objective 1",
+        "Objective 2"
+    ],
+    "skills": 
+    [
+        "html" 
+    ],
+    "imageURL": "html/en/_attachments/html-logo.png",
+    "gitorg": "skillscollection",
+    "gitrepo": "blockchain",
+    "gitbranch": "live",
+    "prereq": [],
+    "intro": "HTML",
+    "color": "#eeb430"
+}

@@ -6,11 +6,11 @@
 
 #### 2. Update your library ID in owners field from catalog.json file
 
-Don't have an library? Register here: https://developer.ibm.com/edge/caas
+Don't have an library? Create one here: https://developer.ibm.com/mylearning
 
 #### 3. Connect EdgeCaaS to your repository
 
-https://developer.ibm.com/edge/caas/connect
+https://developer.ibm.com/mylearning/github
 
 
 ## How to see the courses
@@ -25,4 +25,4 @@ https://?
 
 #### Access the content with Edge CaaS API:
 
-https://developer.ibm.com/edge/caas/connect
+https://developer.ibm.com/edge/caas/

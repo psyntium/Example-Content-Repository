@@ -2,12 +2,8 @@
   "title": "Edge CaaS Example catalog",
   "owners": { "demo": ["all"] },
   "editors": {},
-  "viewers": {
-    "contentstore": ["all"]
-  },
-  "previewers": { 
-    "contentstore": ["all"]
-  },
+  "viewers": {},
+  "previewers": {},
   "copyright": {
     "license": "MIT"
   },

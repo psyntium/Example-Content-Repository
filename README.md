@@ -21,8 +21,8 @@ https://developer.ibm.com/mylearning
 
 #### Embed courses in a WordPress website with this plugin:
 
-https://?
+https://...
 
-#### Access the content with Edge CaaS API:
+#### Embed courses in a website or access the content by API:
 
-https://developer.ibm.com/edge/caas/
+https://developer.ibm.com/mylearning/edgecaas

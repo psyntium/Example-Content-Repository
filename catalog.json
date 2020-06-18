@@ -5,7 +5,8 @@
   "viewers": { "public": ["all"] },
   "previewers": {},
   "copyright": {
-    "license": "MIT"
+    "license": "MIT",
+    "fork": true
   },
   "catalogInfo": {}
 }

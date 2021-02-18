@@ -1,1 +1,20 @@
-[object Object]
+{
+   "title": "Edge CaaS Example catalog",
+   "owners": {
+      "OYb2PHW": [
+         "all"
+      ]
+   },
+   "editors": {},
+   "viewers": {
+      "stock": [
+         "all"
+      ]
+   },
+   "previewers": {},
+   "copyright": {
+      "license": "MIT",
+      "fork": true
+   },
+   "catalogInfo": {}
+}
